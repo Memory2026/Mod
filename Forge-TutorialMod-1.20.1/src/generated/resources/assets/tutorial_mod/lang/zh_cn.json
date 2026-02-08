@@ -1,0 +1,15 @@
+{
+  "block.tutorial_mod.ice_ether_block": "冰以太块",
+  "block.tutorial_mod.ice_ether_ore": "冰以太矿石",
+  "block.tutorial_mod.raw_ice_ether_block": "原始冰以太块",
+  "item.tutorial_mod.anthracite": "无烟煤",
+  "item.tutorial_mod.cheese": "奶酪",
+  "item.tutorial_mod.corn": "玉米",
+  "item.tutorial_mod.ice_ether": "冰以太",
+  "item.tutorial_mod.material.cardboard": "硬纸板",
+  "item.tutorial_mod.prospector": "勘探者",
+  "item.tutorial_mod.raw_ice_ether": "原始冰以太",
+  "item.tutorial_mod.strawberry": "草莓",
+  "itemGroup.material": "材料",
+  "itemGroup.tutorial_tab": "教程模组物品"
+}
